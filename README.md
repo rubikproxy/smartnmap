@@ -4,5 +4,5 @@
 git clone https://github.com/rubik-proxy/smartnmap
 cd smartnmap
 chmod +x smartnmap
-./smartnmap
+./smartnmap.sh
 ```
