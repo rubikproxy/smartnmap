@@ -1,5 +1,5 @@
 # smartnmap
-## Installing (Kali Linux/Termux):
+## Installing (Linux/Termux):
 ```
 git clone https://github.com/rubik-proxy/smartnmap
 cd smartnmap
